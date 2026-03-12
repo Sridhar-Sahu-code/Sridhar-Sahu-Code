@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **sahusridhar624@gmail.com** For Collaboration/Project or A
 - 🤔 **I’m looking for help with:** Backend development
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** sahusridhar624@gmail.com
-- 😄 **Pronouns:** Sridhar
+- 😄 **Pronouns:** Mr. Sridhar
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sridhar Sahu) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sridhar Sahu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahusridhar624@gmail.com) 
