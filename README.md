@@ -4,7 +4,7 @@
 Email Me 👉 ✉️ **sahusridhar624@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Full Stack Development
-- 🌱 **I’m currently learning:** Python, javascript, react
+- 🌱 **I’m currently learning:** Python, javascript, react.js
 - 👯 **I’m looking to collaborate on:** Development
 - 🤔 **I’m looking for help with:** Backend development
 - 💬 **Ask me about:** Collaboration, Tech Support
