@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Sridhar Sahu
-**A passionate Web developer || Data Analysis enthusiast || DSA learner**
+**A passionate Web developer || Data Analyst enthusiast || DSA learner**
 
 Email Me 👉 ✉️ **sahusridhar624@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
